@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'cotizador';
+  title = 'cotizador Web';
 }
+
+var div = document.getElementById("inputEmail4");
+console.log(div);
+
+
